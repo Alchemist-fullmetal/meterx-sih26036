@@ -158,7 +158,4 @@ The working implementation remains private. This public repository exists so rec
 ### Author
 
 **Kalvakota Sai Anudeep**  
-B.Tech Computer Science & Engineering  
-CMR Institute of Technology, Hyderabad
-
 GitHub: `https://github.com/Alchemist-fullmetal`
